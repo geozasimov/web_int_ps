@@ -1,0 +1,41 @@
+{
+    "response": [
+        {
+            "id": 190783881,
+            "nickname": "",
+            "domain": "geozasimov",
+            "bdate": "9.6",
+            "city": {
+                "id": 1,
+                "title": "Moscow"
+            },
+            "country": {
+                "id": 1,
+                "title": "Russia"
+            },
+            "photo_400_orig": "https://sun1-28.userapi.com/s/v1/ig2/qXV4rCTr8X0meBwNTu97Vk4kwZTqb76SMPPaYtwbaU0H8hQRLDLvYz5QdtVVYklVx-ujGKHpxYlrJsqa99-zEl0D.jpg?size=400x400&quality=95&crop=138,0,721,721&ava=1",
+            "has_photo": 1,
+            "has_mobile": 1,
+            "can_write_private_message": 1,
+            "status": "Я не подождать, но могла бы и идеал",
+            "last_seen": {
+                "platform": 2,
+                "time": 1696944358
+            },
+            "occupation": {
+                "id": 128,
+                "name": "НИУ ВШЭ (ГУ-ВШЭ)",
+                "type": "university",
+                "country_id": 1,
+                "city_id": 1
+            },
+            "sex": 2,
+            "screen_name": "geozasimov",
+            "verified": 0,
+            "first_name": "Gosha",
+            "last_name": "Zasimov",
+            "can_access_closed": false,
+            "is_closed": true
+        }
+    ]
+}
